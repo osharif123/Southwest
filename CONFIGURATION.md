@@ -81,7 +81,7 @@ Type: String
 If you use another Chromium-based browser besides Google Chrome or Chromium (such as Brave), you need to specify the path to
 the browser executable.
 
-**Note**: Microsoft Edge is not supported
+**Note**: Don't use microsoft edge
 ```json
 {
     "browser_path": "/usr/bin/browser_path"
